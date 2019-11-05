@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "org.nativescript.application",
+    "package_name": "com.belvillahot",
     "sha256_cert_fingerprints":
     ["B9:A5:25:4D:58:70:76:F1:8C:1C:EF:51:54:4B:AE:D6:B6:7D:20:EA:15:35:D5:28:BE:CD:32:5D:1A:3A:B8:21"]
   }
